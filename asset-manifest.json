@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7388bbd2.css",
+    "main.js": "./static/js/main.668f09bc.js",
+    "static/media/8.gif": "./static/media/8.679752817cad21b812b2.gif",
+    "static/media/2.gif": "./static/media/2.a534db2bf661bf3864bc.gif",
+    "static/media/6.gif": "./static/media/6.db44c206ebcbdaf7ba30.gif",
+    "static/media/7.jpg": "./static/media/7.d70a5dcb65b097011c02.jpg",
+    "static/media/Sakura.jpg": "./static/media/Sakura.cb7360f26334275e6c9e.jpg",
+    "static/media/Background.png": "./static/media/Background.fb8fa81ef8bcc2e27f90.png",
+    "static/media/1.jpg": "./static/media/1.3caf5bfd5c1023c74726.jpg",
+    "static/media/5.jpg": "./static/media/5.9633ce46b75d3b2156b8.jpg",
+    "static/media/10.jpg": "./static/media/10.ddd8fd89915f57315469.jpg",
+    "static/media/9.jpg": "./static/media/9.371710fd30dede160bcb.jpg",
+    "static/media/3.gif": "./static/media/3.fb26dc4fbfd17704e3d6.gif",
+    "static/media/4.jpg": "./static/media/4.f894f20bcb0eaa056e13.jpg",
+    "static/media/perfil.png": "./static/media/perfil.f2edb4b428b898e9b755.png",
+    "static/media/React js.jpg": "./static/media/React js.883e9b9c9f3f5867264a.jpg",
+    "index.html": "./index.html",
+    "main.7388bbd2.css.map": "./static/css/main.7388bbd2.css.map",
+    "main.668f09bc.js.map": "./static/js/main.668f09bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7388bbd2.css",
+    "static/js/main.668f09bc.js"
+  ]
+}
